@@ -1,16 +1,14 @@
-## Hi there 👋
+### ¡Hola! Soy Camila Britch 👋
 
-<!--
-**BritchC/BritchC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Desde Córdoba, Argentina.  
+🎓 Licenciada en Física (FAMAF - UNC).  
+🔬 Me apasiona la inteligencia artificial, machine learning y el análisis de datos.
 
-Here are some ideas to get you started:
+💻 Trabajo con Python, pandas, scikit-learn, TensorFlow, SQL y Jupyter Notebooks.  
+📈 Me interesa especialmente el análisis de series temporales y redes neuronales.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 En este perfil vas a encontrar proyectos personales, ejercicios de aprendizaje y ejemplos de modelos entrenados.
+
+🌱 Actualmente profundizando en modelos transformers y visualización y analisis de datos.
+
+📫 Contacto: [camilabritch@gmail.com](mailto:camilabritch@gmail.com)
